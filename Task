@@ -1,0 +1,1 @@
+First Task command : touch file.txt{1..20} & mv file1.txt to file1.yml do the same command for the first 5 files. Second Task : The command is ls -lt | head -6 will print the latest created/modified 5 files.   
